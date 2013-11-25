@@ -1,13 +1,12 @@
-Stylus
-======
-
-HTML5 and CSS3 based login Free Login Template.
+Stylus :
+========
+Are you an iOS design fan? Here's iOS 7 Styled HTML5 and CSS3 Based Open & Free Login Desgin. <br> <small><a href="http://getbootstrap.com" target="_blank">Dependency: Bootstrap 3.x</a></small>
 
 Features:
-1) Customized Google Map in Whole Background.
-2) iOS7 Type Blur Div for Login.
-3) iOS7 Type Buttons.
-4) A New Kind of Login Design.
+<ol>
+<li>Customized Google Map in Whole Background.</li>
+<li>iOS7 Type Blur Div for Login.</li>
+<li>iOS7 Type Buttons.</li>
+<li>A New Kind of Login Design.</li>
 
-Dependency:
-Twitter Bootstrap 3.x.
+<i>- Built @ <a href="http://coro.cc">CoRo Labs</a></i>
